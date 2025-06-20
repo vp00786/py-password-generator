@@ -9,6 +9,7 @@ A simple Python script to generate secure passwords using letters, numbers, and 
 ## Usage
 Run the script and answer the prompts:
 
+```bash
 python password_generator.py
 Welcome to the PyPassword Generator!
 How many letters would you like in your password?
